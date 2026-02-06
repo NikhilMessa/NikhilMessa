@@ -14,7 +14,7 @@
 # 🧑‍💻 About Me
 
 🧪 QA Engineer with real-time experience in **Banking & Insurance Applications**  
-🔐 Currently transitioning into **Cybersecurity & Security Testing**  
+🔐 Transitioning into **Cybersecurity & Security Testing**  
 ⚡ Founder of **NexLume** — Software Development Startup  
 
 ✔️ Manual Testing & Defect Lifecycle  
@@ -37,14 +37,14 @@
 
 ## 🔐 Cybersecurity (Learning Path)
 - Kali Linux
-- Security Testing Basics
-- Web Application Security Concepts
+- Web Security Basics
+- Security Testing Concepts
 
 ## ⚙️ Development Stack
-Frontend : HTML | CSS | React  
-Backend : Django | Node.js  
-Database : MongoDB | MySQL | SQL  
-Tools : JIRA | Postman | Git | VS Code  
+Frontend : HTML • CSS • React  
+Backend : Django • Node.js  
+Database : MongoDB • MySQL • SQL  
+Tools : JIRA • Postman • Git • VS Code  
 Automation : Selenium (Learning Phase)
 
 ---
@@ -62,102 +62,51 @@ const nikhil = {
     "Scale NexLume Agency"
   ]
 };
+📊 Elite GitHub Analytics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NikhilMessa&show_icons=true&theme=tokyonight&hide_border=true"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilMessa&theme=tokyonight&hide_border=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilMessa&layout=compact&theme=tokyonight&hide_border=true"/> </div>
+🐍 Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/NikhilMessa/NikhilMessa/output/snake-dark.svg"/> </div>
+🔥 Featured Work
+🔐 Authentication System
+Login / Signup / Forgot Password
 
----
+Google Auth Integration
 
-# 📊 Elite GitHub Analytics
+MongoDB Backend APIs
 
-<div align="center">
+💳 Razorpay Payment Integration
+Django Backend + React Frontend
 
-<img src="https://github-readme-stats.vercel.app/api?username=NikhilMessa&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilMessa&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilMessa&layout=compact&theme=tokyonight&hide_border=true"/>
+Secure Payment Flow
 
-</div>
+📱 Mishra Sandwich App
+React Native Application
 
----
+Feature Flow Testing
 
-# 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/NikhilMessa/NikhilMessa/output/snake-dark.svg"/>
-</div>
-
----
-
-# 🔥 Featured Work
-
-## 🔐 Authentication System
-- Login / Signup / Forgot Password
-- Google Auth Integration
-- MongoDB Backend APIs
-
-## 💳 Razorpay Payment Integration
-- Django Backend + React Frontend
-- Secure Payment Flow
-
-## 📱 Mishra Sandwich App
-- React Native Application
-- Feature Flow Testing
-
----
-
-# 🧰 Tech Stack
-
-### 🎨 Frontend
+🧰 Tech Stack
+🎨 Frontend
 HTML • CSS • React • Bootstrap
 
-### ⚡ Backend
+⚡ Backend
 Django • Node.js
 
-### 🗄 Database
+🗄 Database
 MongoDB • MySQL
 
-### 🔐 Security
+🔐 Security
 Kali Linux • Security Basics
 
-### 🛠 Testing Tools
+🛠 Testing Tools
 Selenium • Postman • JIRA • SQL
 
----
-
-# 📈 Contribution Graph
-
+📈 Contribution Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=NikhilMessa&theme=react-dark&hide_border=true"/> </div>
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=NikhilMessa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/> </div>
+🤝 Let's Connect
+<div align="center"> <a href="https://linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:meetdesai2520@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NikhilMessa&theme=react-dark&hide_border=true"/>
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NikhilMessa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:meetdesai2520@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
 ⚡ “Test like a hacker. Think like a defender.” ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,100:203a43"/>
-
-</div>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,100:203a43"/> </div> ```
